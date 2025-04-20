@@ -1,0 +1,4 @@
+Open item,Sales Category,Item tags,Deferred,Qty sold,Avg. price,Avg. item price (not incl. mods),Gross sales,Discount amount,Refund amount,Void amount,Net sales,Tax,Waste count,Waste amount
+Naga Chicken,,[],false,5.0,18.00,18.00,90.0,0.0,0.0,0.0,90.0,0.0,0.0,0.0
+Pepperoni,,[],false,5.0,16.00,16.00,80.0,0.0,0.0,0.0,80.0,0.0,0.0,0.0
+Wrap,,[],false,500.0,6.60,6.60,3300.0,0.0,0.0,0.0,3300.0,0.0,0.0,0.0
